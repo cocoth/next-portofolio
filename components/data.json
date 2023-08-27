@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Pentesting 🔐",
+        "description": "I'm a Penetration Tester with expertise in tools like Nmap, Burp Suite, Wireshark, and Metasploit. I employ custom scripting and threat modeling for systematic assessments, uncovering vulnerabilities and fortifying digital defenses."
+    },
+    {
+        "title":"Python Developer 🐍",
+        "description":"In the realm of development, I am a versatile practitioner. Beyond scripting, I harness Python&apos;s capabilities to excel in data scraping, enabling the extraction of invaluable insights from the digital landscape. Additionally, I have crafted custom cyber security tools, leveraging Python&apos;s flexibility and power to fortify digital defenses, demonstrating my commitment to enhancing cyber resilience."
+
+    },
+    {
+        "title":"Web developer 🌐",
+        "description":"I am a multifaceted Web Developer who crafts immersive online experiences. My toolkit includes a mastery of modern web technologies such as React, Next.js, and Tailwind CSS, which I employ to transform concepts into captivating digital interfaces. My expertise extends to PHP, HTML, CSS, and JavaScript, ensuring pixel-perfect execution of web projects. Through a meticulous eye for responsive design and optimization, I breathe life into web ecosystems that captivate and engage users."
+    },
+    {
+        "title":"Git 🐱",
+        "description":"Git is my compass in the realm of version control. My fluency in Git ensures that collaborative efforts remain organized, transparent, and agile. From branching strategies to conflict resolution, I employ Git as a cornerstone tool to facilitate efficient teamwork and codebase management."
+    },
+    {
+        "title":"Linux 💻",
+        "description":"My Linux proficiency extends to an intermediate level, allowing me to navigate its intricacies with confidence. I have effectively utilized Linux in diverse environments, from system administration to penetration testing, employing command-line prowess to streamline tasks and expedite solutions. This fluency underscores my adaptability in a wide array of technical settings."
+    },
+    {
+        "title":"Leadership 👨‍🏫",
+        "description":"As a Cyber Kampus leader, I foster learning, ethical hacking, and teamwork. I nurture a culture of growth, shaping an engaged and thriving community."
+    }
+]
