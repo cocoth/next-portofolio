@@ -33,10 +33,10 @@ export default function Home() {
                 <Image  src={profile} alt='profile' layout='fill' objectFit='cover' />
               </div>
               <div className='backdrop-blur-md shadow-md rounded-lg mb-12 border'>
-                <h2 className='font-ubuntu text-5xl font-bold shadow-sm text-white'>
+                <h2 className=' font-ubuntu text-5xl font-bold shadow-sm text-white'>
                   Saeful Diyan Pratama
                 </h2>
-                <h3 className=' text-xl my-2 bg-black text-gray-300 font-mono backdrop-blur-lg dark:bg-black dark:text-gray-300 rounded-md w-80 mx-auto '>
+                <h3 className='text-xl my-2 bg-black text-gray-300 font-mono backdrop-blur-lg dark:bg-black dark:text-gray-300 rounded-md w-80 mx-auto '>
                   I'm a{' '}
                   <TypeAnimation
                   sequence={[
