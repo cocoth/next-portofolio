@@ -69,10 +69,10 @@ export default function Home() {
                   Proficient in Python and web programming, I identify vulnerabilities and recommend secure solutions. My commitment to learning and collaborative teamwork makes me a versatile asset.
                 </p>
                 <div className='text-5xl flex justify-center gap-16 pt-10 text-sky-600 '>
-                  <a href="https://twitter.com/LetsHackyoutube" target="_blank" rel="noopener noreferrer">
+                  <a href="https://twitter.com/ZiziUnderTheSea" target="_blank" rel="noopener noreferrer">
                     <AiFillTwitterCircle className='cursor-pointer hover:text-blue-600 hover:transition hover:ease-in-out hover:ring-1   dark:text-blue-500 dark:bg-white  dark:rounded-full' />
                   </a>
-                  <a href='https://www.linkedin.com/in/diyan-pratama-098650281/' target='_blank' rel="noopener noreferrer">
+                  <a href='https://www.linkedin.com/in/diyan-pratama/' target='_blank' rel="noopener noreferrer">
                     <AiFillLinkedin className='cursor-pointer hover:text-blue-600 hover:transition hover:ease-in-out hover:ring-1 dark:text-blue-500 dark:bg-white  dark:rounded-full'/>
                   </a>
                 </div>
